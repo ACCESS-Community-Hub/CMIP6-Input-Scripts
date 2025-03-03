@@ -1,6 +1,8 @@
 # CMIP6-Input-Scripts
 
-This repository is an archive of old scripts that may have been used to create model input files from CMIP6 forcings. The scripts are preserved as-is. If updated or replacement scripts are needed for CMIP6 or CMIP7 forcings, please use either the https://github.com/ACCESS-NRI/CMIP7-Input repository or the [MOSRS ancil/contrib](https://code.metoffice.gov.uk/doc/ancil/ants/latest/contributing.html#contribute-code) repository as appropriate. For more documentation on CMIP forcing processing, see the [ACCESS-NRI/CMIP7-Input Wiki](https://github.com/ACCESS-NRI/CMIP7-Input/wiki).
+This repository is an archive of scripts that may have been used to create model input files from CMIP6 forcings. The scripts are preserved as-is. They are being preserved for provenance purposes. There is no intention to modify or update them. 
+
+If updated or replacement scripts are needed for CMIP6 or CMIP7 forcings, please use either the https://github.com/ACCESS-NRI/CMIP7-Input repository or the [MOSRS ancil/contrib](https://code.metoffice.gov.uk/doc/ancil/ants/latest/contributing.html#contribute-code) repository as appropriate. For more documentation on CMIP forcing processing, see the [ACCESS-NRI/CMIP7-Input Wiki](https://github.com/ACCESS-NRI/CMIP7-Input/wiki).
 
 ## Directory structure
 
